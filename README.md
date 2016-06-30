@@ -8,7 +8,8 @@ Then clone this module and run with `mvn clean install -DskipTests=true alfresco
  * Runs Alfresco Share
  * Packages both as JAR and AMP assembly
 
-Note. You access Share as follows: http://localhost:8081/share 
+Note. You access Share as follows: http://localhost:8081/share
+ 
 Note. You need an Alfresco Platform instance running at http://localhost:8080/alfresco that Share can talk to.
       Typically you will just kick off a platform-sample-jar module for that.
  
